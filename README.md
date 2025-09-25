@@ -5,6 +5,8 @@
 This project demonstrates **linear regression** on a dataset with multiple features.
 The focus is on **feature engineering**, applying **transformations** to stabilize variance, and evaluating the model using various metrics.
 
+⚠️ **Note:** This notebook requires a **clean and preprocessed dataset** to run. To generate this dataset, run the `data-preprocessing.py` script in the root directory.
+
 ---
 
 ## 📂 Project Structure
@@ -26,6 +28,7 @@ project-root/
 │
 ├── requirements.txt         # Python dependencies
 ├── regression-explorer.ipynb
+├── data-preprocessing.py     # Script to clean and preprocess data
 └── README.md
 ```
 
