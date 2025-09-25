@@ -1,4 +1,4 @@
-# 🏠 Linear Regression & Feature Engineering Analysis
+# 🏠 Linear Regression & Multiple Linear Regression
 
 ## 📖 Introduction
 
